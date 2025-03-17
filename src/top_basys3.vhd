@@ -11,8 +11,8 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : top_basys3.vhd
---| AUTHOR(S)     : Capt Phillip Warner
---| CREATED       : 02/22/2018 Modified: 03/01/2020 by capt Dan Johnson
+--| AUTHOR(S)     : C3C Bradley Richey
+--| CREATED       : 03/12/2025 
 --| DESCRIPTION   : This file implements the top level module for the solution for Stoplight FSM.
 --|
 --|					Inputs:  clk 	--> 100 MHz clock from FPGA
